@@ -1,0 +1,36 @@
+customer_id,customer_name,city
+789201,Rel Fresh,Suez
+789202,Rel Fresh,Alex
+789203,Rel Fresh,Damietta
+789301,Expression Stores,Suez
+789303,Expression Stores,Damietta
+789101,Red Stores,Suez
+789102,Red Stores,Alex
+789103,Red Stores,Damietta
+789121,Coolblue,Alex
+789122,Coolblue,Damietta
+789220,Atlas Stores,Suez
+789221,Atlas Stores,Alex
+789320,Chiptec Stores,Suez
+789321,Chiptec Stores,Alex
+789401,Propel Mart,Suez
+789402,Propel Mart,Alex
+789403,Propel Mart,Damietta
+789420,Lotus Mart,Suez
+789421,Lotus Mart,Alex
+789422,Lotus Mart,Damietta
+789501,Viveks Stores,Suez
+789503,Viveks Stores,Damietta
+789520,Acclaimed Stores,Suez
+789521,Acclaimed Stores,Alex
+789522,Acclaimed Stores,Damietta
+789601,Info Stores,Suez
+789603,Info Stores,Damietta
+789702,Sorefoz Mart,Alex
+789703,Sorefoz Mart,Damietta
+789621,Expert Mart,Alex
+789622,Expert Mart,Damietta
+789720,Logic Stores,Suez
+789721,Logic Stores,Alex
+789902,Elite Mart,Alex
+789903,Elite Mart,Damietta
