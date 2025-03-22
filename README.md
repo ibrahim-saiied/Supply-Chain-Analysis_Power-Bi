@@ -75,6 +75,11 @@ It operates in three cities (Alex, Suez, Damietta) and plans to expand to Tier 1
 However, some key customers have not renewed their contracts due to service issues, likely caused by late or incomplete deliveries.
 Management wants to solve this problem before expanding and has asked to track service levels for all customers.
 
+## Main 𝐊𝐏𝐈𝐬
+- **<ins>OT %</ins>**: On time delivery percentage
+- **<ins>IF %</ins>**: In Full delivery percentage
+- **<ins>OTIF %</ins>**: On time and In Full delivery percentage
+
 ## Process
 1) Explore, understand and validating all data.
 2) Importing and clean data and Adding some columns to aid in data analysis, such as a column to identify the day type weekend or weekday with power query. 
@@ -90,5 +95,29 @@ Management wants to solve this problem before expanding and has asked to track s
 ![image](https://github.com/user-attachments/assets/968911ef-421b-477a-b89f-9c8e0477378f)
 
 ## Dashboard
+<img width="1500" alt="Group 3" src="https://github.com/user-attachments/assets/c341a5fc-7298-4893-833c-f795d340a8a4" />
+<img width="1500" alt="Group 3" src="https://github.com/user-attachments/assets/fc42b045-a0bb-42bc-8d79-25ecba9a4f11" />
+<img width="1500" alt="Group 3" src="https://github.com/user-attachments/assets/705fdf2d-0f69-44b3-acf7-200de479fc7c" />
 
+## Important Insights
+1) **Service Level Performance**
+   - The average OT%, IF%, and OTIF% are noticeably lower than the targeted levels. This indicates a significant gap between actual performance and goals.
+   - Each customer's values fall significantly short of the targets, indicating that not a single customer has met the desired service levels.
+ 2) **Overall Trend**
+    - Average performance by both month and city consistently remains low, suggesting a significant and widespread issue in achieving the set targets.
+ 3) **Product Shortages**
+    - Dairy products account for 78.7% of the total shortfall, with milk (across all size variations) being The most affected.
+    - There is a need to focus more on dairy production and offer a wider variety of sizes to suit customer needs.
+ 4) **Delivery Performance**
+    - Only 59.1% of orders were delivered on time or early, while 40.9% faced delays.
+    - These key customers experience the highest rate of quantity shortages, increasing the risk of losing them.
+5) **Key Customer Risks**
+   - Out of 15 customers, the top 6 (Lotus Mart, Acclaimed Stores, Red Stores, Rel Fresh, Cool Blue, and Propel Mart) constitute 53% of total orders, making them key customers.
+   - These key customers experience the highest rate of quantity shortages, increasing the risk of losing them.
+   - Specifically, Lotus Mart, Acclaimed Stores, and Cool Blue show noticeably lower OT%, OTIF%, and even IF% levels, suggesting they are unlikely to renew their contracts unless improvements are made.
+  
+## Potential Loss of Key Customers
+probably **Acclaimed Stores**, **Cool Blue** & **Lotus Mart** are the Key customers who would certainly not willing to renew the contract
 
+## Recommendation
+Focus on improving service levels and delivery performance, particularly for dairy products and key customers, to close the gap with targets and mitigate the risk of contract non-renewals.
