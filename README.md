@@ -1,6 +1,8 @@
 # Supply Chain Analysis - Power Bi
 
 ### Link to [Interactive Dashboard on novyPro](https://www.novypro.com/profile_about/ibrahim-saiied-1?Popup=memberProject&Data=1741967114105x160840138809370300) 
+### Link to [The Presentation (PDF)](https://drive.google.com/file/d/14xplGSFAvo-WG-rcO7dllt9CYSXe2tew/view)
+### Link to [Linked In](https://www.linkedin.com/in/ibrahim-saiied-data-analyst/) 
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/65303d11-0c9e-4093-8c22-fa4582861c7b" alt="image" width="400" height="400">
