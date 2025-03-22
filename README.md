@@ -67,3 +67,28 @@
    
 </details>
 
+<!-- ------------------------------------------------------------------------------------------- -->
+
+## Case Study
+**MaxAB** is a growing **FMCG** manufacturer in **Alx, Egypt**.
+It operates in three cities (Alex, Suez, Damietta) and plans to expand to Tier 1 cities within two years.
+However, some key customers have not renewed their contracts due to service issues, likely caused by late or incomplete deliveries.
+Management wants to solve this problem before expanding and has asked to track service levels for all customers.
+
+## Process
+1) Explore, understand and validating all data.
+2) Importing and clean data and Adding some columns to aid in data analysis, such as a column to identify the day type weekend or weekday with power query. 
+3) Data modeling
+4) Creating Measures using DAX
+5) Creating the Dashboard
+
+## Measures
+;
+<img src="https://github.com/user-attachments/assets/8e63c714-c090-40d7-b143-ff4ab9fd8274" alt="image" width="175" height="320" style="display: block; margin: 0;">
+
+## Data Model
+![image](https://github.com/user-attachments/assets/968911ef-421b-477a-b89f-9c8e0477378f)
+
+## Dashboard
+
+
