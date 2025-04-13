@@ -104,11 +104,22 @@ Management wants to solve this problem before expanding and has asked to track s
 1) **Service Level Performance**
    - The average OT%, IF%, and OTIF% are noticeably lower than the targeted levels. This indicates a significant gap between actual performance and goals.
    - Each customer's values fall significantly short of the targets, indicating that not a single customer has met the desired service levels.
+
  2) **Overall Trend**
     - Average performance by both month and city consistently remains low, suggesting a significant and widespread issue in achieving the set targets.
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/373eda61-2eab-4b06-b14d-717117eb46b6" alt="image" width="900" height="500">
+</div>
+
  3) **Product Shortages**
     - Dairy products account for 78.7% of the total shortfall, with milk (across all size variations) being The most affected.
     - There is a need to focus more on dairy production and offer a wider variety of sizes to suit customer needs.
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/a8bf7936-c525-4185-a421-e6bc6c9c5f08" alt="image" width="900" height="500">
+</div>
+
  4) **Delivery Performance**
     - Only 59.1% of orders were delivered on time or early, while 40.9% faced delays.
     - These key customers experience the highest rate of quantity shortages, increasing the risk of losing them.
@@ -116,7 +127,12 @@ Management wants to solve this problem before expanding and has asked to track s
    - Out of 15 customers, the top 6 (Lotus Mart, Acclaimed Stores, Red Stores, Rel Fresh, Cool Blue, and Propel Mart) constitute 53% of total orders, making them key customers.
    - These key customers experience the highest rate of quantity shortages, increasing the risk of losing them.
    - Specifically, Lotus Mart, Acclaimed Stores, and Cool Blue show noticeably lower OT%, OTIF%, and even IF% levels, suggesting they are unlikely to renew their contracts unless improvements are made.
-  
+
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/d9597e6d-6708-493c-90e8-208e6c8bef0d" alt="image" width="900" height="500">
+</div>
+
 ## Potential Loss of Key Customers
 probably **Acclaimed Stores**, **Cool Blue** & **Lotus Mart** are the Key customers who would certainly not willing to renew the contract
 
