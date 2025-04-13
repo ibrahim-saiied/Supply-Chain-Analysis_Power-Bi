@@ -5,9 +5,8 @@
 ### Link to [MY Linked In](https://www.linkedin.com/in/ibrahim-saiied-data-analyst/) 
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/65303d11-0c9e-4093-8c22-fa4582861c7b" alt="image" width="400" height="400">
+    <img src="https://github.com/user-attachments/assets/65303d11-0c9e-4093-8c22-fa4582861c7b" alt="image" width="700" height="500">
 </div>
-
 
 ## Introduction
 <details>
