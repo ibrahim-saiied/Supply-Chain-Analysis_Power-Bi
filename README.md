@@ -2,7 +2,7 @@
 
 ### Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWQ2YjY2MmUtMGVhZC00NzJlLWFjNzQtM2M1NWY0YjM3MDUxIiwidCI6IjVhNmNhYWE5LTViMjctNDcxNy05YzI3LWJjY2Y2YmU4MDQ2OSJ9) 
 ### Link to [The Presentation (PDF)](https://drive.google.com/file/d/14xplGSFAvo-WG-rcO7dllt9CYSXe2tew/view)
-### Link to [MY Linked In](https://www.linkedin.com/in/ibrahim-saiied-data-analyst/) 
+### Link to [MY Linked In](https://www.linkedin.com/in/ibrahim-saiied/) 
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/65303d11-0c9e-4093-8c22-fa4582861c7b" alt="image" width="700" height="500">
